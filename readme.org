@@ -3,9 +3,22 @@ implements math operations in right to left order, as in APL-like languages
 
 #+begin_src rust
 use mathrtl::*;
-  
+
 let a = w(2) / w(8) - w(2) * w(1) + w(2);
 assert_eq!(a.calc(), 1);
 #+end_src
 
 please dont use this
+
+** reviews
+oh god - ezri
+
+awful. i like it - alice
+
+🥺 - luci
+
+I hate this I'm implementing it - mira
+
+banned. blocked. defederated. - anne
+
+what the fuck annie?? - tóth
